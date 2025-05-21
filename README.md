@@ -1,12 +1,8 @@
-# Cluster-Notes-Using-Sentence-Transformers-KMeans
-
 # 🧠 Clustering Textual Notes with Sentence Transformers & KMeans
 
 ## 📌 Overview
 
-This project organizes short text notes into meaningful groups based on their semantic content using modern **Natural Language Processing (NLP)** and **unsupervised machine learning** techniques.
-
-By converting each sentence into a numerical *meaning vector* and clustering similar ones together, it enables topic discovery, summarization, and auto-labeling of text data.
+This project organizes short text notes into meaningful groups based on their semantic content using modern **Natural Language Processing (NLP)** and **unsupervised machine learning** techniques. By converting each sentence into a numerical *meaning vector* and clustering similar ones together, it enables topic discovery, summarization, and auto-labeling of text data.
 
 ---
 
@@ -26,11 +22,6 @@ By converting each sentence into a numerical *meaning vector* and clustering sim
 
 5. 🧠 **Results are displayed**  
    Each note is shown under its respective group. A sample sentence is suggested as the group title.
-
----
-
-## 📊 Sample Output
-
 
 ---
 
